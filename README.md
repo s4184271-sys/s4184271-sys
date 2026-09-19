@@ -2,17 +2,16 @@
 
 ### Biotechnology Engineering Student | Aspiring Data Analyst
 
-I am a Biotechnology Engineering student building practical skills in **Data Analytics, Business Intelligence, Healthcare Analytics, and Bioinformatics**.
+I am a Biotechnology Engineering student building practical skills in **Data Analytics and Business Intelligence**.
 
-I enjoy working with data to clean, transform, analyze, visualize, and communicate meaningful insights. My portfolio combines analytics projects with my biotechnology background, with a focus on developing practical, industry-oriented problem-solving skills.
+I enjoy working with data to clean, transform, analyze, visualize, and communicate meaningful insights. My portfolio focuses on hands-on projects using SQL, Excel, Power BI, and Python, with an interest in applying analytics to healthcare and other real-world business problems.
 
 ---
 
 ## About Me
 
-- Currently developing skills for **Data Analyst and Business Intelligence** roles
-- Interested in applying analytics to **healthcare, life sciences, and bioinformatics**
-- Building hands-on projects using real-world and practice datasets
+- Developing skills for **Data Analyst and Business Intelligence** roles
+- Building hands-on analytics projects using real-world and practice datasets
 - Continuously improving SQL, Excel, Power BI, Python, and analytical thinking
 - Interested in internships, entry-level opportunities, and meaningful analytics projects
 
@@ -28,7 +27,6 @@ I enjoy working with data to clean, transform, analyze, visualize, and communica
 | Power BI | Power Query, Data Modeling, DAX, Interactive Dashboards |
 | Python | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
 | Machine Learning | Linear Regression, Train/Test Split, Model Evaluation |
-| Bioinformatics | Proteomics Data Analysis, GSEA, STRING, Reactome, MetaboAnalyst |
 | Tools | GitHub, Jupyter Notebook, VS Code |
 
 ---
@@ -48,33 +46,7 @@ An interactive hospital emergency room dashboard built from approximately 9,200 
 
 [View Project](https://github.com/s4184271-sys/Hospital-emergency-room-dashboard-excel)
 
-### 2. Mobile Brand Sales Dashboard
-**Power BI | DAX | Data Visualization**
-
-An interactive sales dashboard analyzing mobile brand and model performance.
-
-- Analyzed sales, quantity, transactions, and average price
-- Compared brands and models across cities
-- Analyzed payment-method preferences and customer ratings
-- Investigated the relationship between customer affordability and brand pricing
-- Built interactive filtering using slicers and DAX measures
-
-[View Project](https://github.com/s4184271-sys/mobile_sales_dashboard)
-
-### 3. Spotify Most Streamed Artists Dashboard
-**Power BI | DAX | Data Visualization**
-
-An interactive analysis of 500 most-streamed artists using a Spotify-themed dashboard.
-
-- Analyzed artist types, genres, countries, languages, and streaming categories
-- Built dynamic DAX analysis for identifying the leading genre
-- Created Top 10 artist and country visualizations
-- Added multiple slicers for interactive exploration
-- Investigated solo/group distribution and stream categories
-
-[View Project](https://github.com/s4184271-sys/spotify_dashboard)
-
-### 4. Olist E-commerce Analytics
+### 2. Olist E-commerce Analytics
 **Python | Pandas | Power BI | DAX**
 
 An end-to-end e-commerce analytics project using the Brazilian Olist dataset.
@@ -86,6 +58,32 @@ An end-to-end e-commerce analytics project using the Brazilian Olist dataset.
 - Analyzed sales, customers, orders, delivery performance, and business patterns
 
 [View Project](https://github.com/s4184271-sys/olist-ecommerce-analytics-dashboard)
+
+### 3. Mobile Brand Sales Dashboard
+**Power BI | DAX | Data Visualization**
+
+An interactive sales dashboard analyzing mobile brand and model performance.
+
+- Analyzed sales, quantity, transactions, and average price
+- Compared brands and models across cities
+- Analyzed payment-method preferences and customer ratings
+- Investigated customer affordability and brand pricing
+- Built interactive filtering using slicers and DAX measures
+
+[View Project](https://github.com/s4184271-sys/mobile_sales_dashboard)
+
+### 4. Spotify Most Streamed Artists Dashboard
+**Power BI | DAX | Data Visualization**
+
+An interactive analysis of 500 most-streamed artists using a Spotify-themed dashboard.
+
+- Analyzed artist types, genres, countries, languages, and streaming categories
+- Built dynamic DAX analysis
+- Created Top 10 artist and country visualizations
+- Added multiple slicers for interactive exploration
+- Investigated solo/group distribution and stream categories
+
+[View Project](https://github.com/s4184271-sys/spotify_dashboard)
 
 ### 5. Hospital Data Analysis
 **PostgreSQL | SQL**
@@ -134,7 +132,6 @@ Projects include:
 - Advanced Excel and DAX
 - Power BI data modeling and time-intelligence concepts
 - Python for analytics and machine learning
-- Healthcare and bioinformatics data analysis
 
 ---
 
@@ -145,8 +142,6 @@ I am interested in opportunities related to:
 - Data Analyst
 - Business Intelligence / BI Analyst
 - Healthcare Data Analyst
-- Life Sciences Data Analyst
-- Bioinformatics Data Analysis
 - Entry-level Analytics and Reporting roles
 
 ---
